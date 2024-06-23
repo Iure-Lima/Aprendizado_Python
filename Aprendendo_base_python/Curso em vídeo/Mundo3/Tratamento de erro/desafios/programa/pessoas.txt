@@ -1,0 +1,3 @@
+Iure;20
+Lure;30
+Marco;20
