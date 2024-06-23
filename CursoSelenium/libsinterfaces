@@ -1,0 +1,3 @@
+pyton3 -m pip uninstall kivymd
+python3 -m pip install PySimpleGUI
+sudo apt-get install python3-tk
